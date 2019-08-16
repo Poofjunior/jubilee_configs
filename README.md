@@ -1,4 +1,4 @@
-### Jubilee Configuration files
+# Jubilee Configuration files
 
 Config files for a fresh Jubilee printer
 
@@ -9,3 +9,5 @@ Note that the two limit switches must be wired together in series as per page 8 
 
 From here, you will take the toolchanger lock connector and install it in the E0 endstop.
 (Note that you cannot use an endstop on E0 with the toolchanger lock.)
+
+That's it! Simply load these config files onto your SD card following the folder structure, and you're set!
